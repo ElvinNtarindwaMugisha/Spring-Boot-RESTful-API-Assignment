@@ -1,0 +1,14 @@
+auca\ac\rw\restfullApiAssignment\controller\ecommerce\ProductController.class
+auca\ac\rw\restfullApiAssignment\modal\taskmanagement\Task.class
+auca\ac\rw\restfullApiAssignment\controller\studentRegistration\StudentController.class
+auca\ac\rw\restfullApiAssignment\modal\ecommerce\Product.class
+auca\ac\rw\restfullApiAssignment\modal\restaurant\MenuItem.class
+auca\ac\rw\restfullApiAssignment\modal\library\Book.class
+auca\ac\rw\restfullApiAssignment\controller\restaurant\MenuController.class
+auca\ac\rw\restfullApiAssignment\modal\studentRegistration\Student.class
+auca\ac\rw\restfullApiAssignment\controller\userprofile\UserProfileController.class
+auca\ac\rw\restfullApiAssignment\controller\library\BookController.class
+auca\ac\rw\restfullApiAssignment\controller\taskmanagement\TaskController.class
+auca\ac\rw\restfullApiAssignment\RestfullApiAssignmentApplication.class
+auca\ac\rw\restfullApiAssignment\modal\userprofile\ApiResponse.class
+auca\ac\rw\restfullApiAssignment\modal\userprofile\UserProfile.class
