@@ -2,7 +2,38 @@
 
 ##  Completion Status
 
-All questions have been successfully implemented:
+## 📦 Package Structure
+
+```
+auca.ac.rw.restfullApiAssignment
+├── controller
+│   ├── ecommerce
+│   │   └── ProductController
+│   ├── library
+│   │   └── BookController
+│   ├── restaurant
+│   │   └── MenuController
+│   ├── studentRegistration
+│   │   └── StudentController
+│   ├── taskmanagement
+│   │   └── TaskController
+│   └── userprofile
+│       └── UserProfileController
+└── modal
+    ├── ecommerce
+    │   └── Product
+    ├── library
+    │   └── Book
+    ├── restaurant
+    │   └── MenuItem
+    ├── studentRegistration
+    │   └── Student
+    ├── taskmanagement
+    │   └── Task
+    └── userprofile
+        ├── ApiResponse
+        └── UserProfile
+```
 
 ### Question 1: Library Book Management API 
 - **Model**: `Book.java` with id, title, author, isbn, publicationYear
@@ -171,36 +202,4 @@ All questions have been successfully implemented:
    - `README.md` for endpoint details
    - `TESTING_GUIDE.md` for testing examples
 
-## 📦 Package Structure
-
-```
-auca.ac.rw.restfullApiAssignment
-├── controller
-│   ├── ecommerce
-│   │   └── ProductController
-│   ├── library
-│   │   └── BookController
-│   ├── restaurant
-│   │   └── MenuController
-│   ├── studentRegistration
-│   │   └── StudentController
-│   ├── taskmanagement
-│   │   └── TaskController
-│   └── userprofile
-│       └── UserProfileController
-└── modal
-    ├── ecommerce
-    │   └── Product
-    ├── library
-    │   └── Book
-    ├── restaurant
-    │   └── MenuItem
-    ├── studentRegistration
-    │   └── Student
-    ├── taskmanagement
-    │   └── Task
-    └── userprofile
-        ├── ApiResponse
-        └── UserProfile
-```
 
